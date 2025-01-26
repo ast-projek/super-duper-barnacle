@@ -1,0 +1,109 @@
+/* Mengatur gaya dasar */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 50px 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  #product {
+    padding: 30px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  #CTA {
+    padding: 30px 20px;
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  #CTA a {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #0056b3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  #cta button:hover {
+    background-color: #003f7f;
+  }
+
+  .opening {
+    text-align: center;
+    background-color: #007BFF;
+    color: #f9f9f9;
+  }
+
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 9px;
+    padding: 18px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+  }
+
+  .product-title {
+    font-size: 1.5rem;
+    margin: 12px 0;
+    color: #333;
+  }
+
+  .product-image {
+    width: 80vh;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #2ecc71;
+  margin: 12px 0
+}
+
+.sosis-champ {
+  margin: 80px;
+}
+
+.end {
+  text-align: center;
+}
